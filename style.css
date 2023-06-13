@@ -104,6 +104,9 @@
       font-size: 20px;
     }
    
+    .greeting {
+      text-align:  center;
+    }
     .nav-links.nav-links-responsive {
       position: absolute;
       display: flex;
